@@ -21,7 +21,7 @@ const speakers = [
     name: "Mr. Mohamed Elazzazy",
     position: "Head of IT Governance and Change Management",
     company: "Al-Baraka Bank Egypt",
-    imageUrl: {speaker1}
+    imageUrl: "/src/assets/speakers/1.png"
   },
   {
     name: "Mr. Shehab Moustafa",
