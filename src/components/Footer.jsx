@@ -3,7 +3,7 @@ import { Linkedin, Facebook, Instagram, Twitter, MapPin, Phone, Mail } from 'luc
 import award1 from "../assets/Footer/footer1.png"
 import award2 from "../assets/Footer/footer2.png"
 import award3 from "../assets/Footer/footer3.png"
-import award4 from "../assets/Footer/footer4.png"
+import award4 from "../assets/Footer/Footer4.png"
 
 const Footer = () => {
   return (
