@@ -1,12 +1,27 @@
 // eslint-disable-next-line no-unused-vars
 import { motion } from 'framer-motion';
+import speaker1 from "../assets/speakers/1.png";
+import speaker2 from "../assets/speakers/2.jpg";
+import speaker3 from "../assets/speakers/3.jpg";
+import speaker4 from "../assets/speakers/4.jpg";
+import speaker5 from "../assets/speakers/5.jpg";
+import speaker6 from "../assets/speakers/6.jpg";
+import speaker7 from "../assets/speakers/7.png";
+import speaker8 from "../assets/speakers/8.png";
+import speaker9 from "../assets/speakers/9.jpg";
+import speaker10 from "../assets/speakers/10.jpg";
+import speaker11 from "../assets/speakers/11.jpg";
+import speaker12 from "../assets/speakers/12.jpg";
+import speaker13 from "../assets/speakers/13.jpg";
+import speaker14 from "../assets/speakers/14.jpg";
+import speaker15 from "../assets/speakers/15.png";
 
 const speakers = [
   {
     name: "Mr. Mohamed Elazzazy",
     position: "Head of IT Governance and Change Management",
     company: "Al-Baraka Bank Egypt",
-    imageUrl: "/src/assets/speakers/1.png"
+    imageUrl: {speaker1}
   },
   {
     name: "Mr. Shehab Moustafa",
